@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lyra-guardian-app",
+          "appId": "1:849209827409:android:c6d094be8eea9b9cc81870",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lyra-guardian-app",
+          "configurations": {
+            "android": "1:849209827409:android:c6d094be8eea9b9cc81870",
+            "ios": "1:849209827409:ios:52a9ff85a36b95cac81870",
+            "web": "1:849209827409:web:6268e991ddb88143c81870",
+            "windows": "1:849209827409:web:9f011cc009da4816c81870"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

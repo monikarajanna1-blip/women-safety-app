@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "849209827409",
+    "firebase_url": "https://lyra-guardian-app-default-rtdb.firebaseio.com",
+    "project_id": "lyra-guardian-app",
+    "storage_bucket": "lyra-guardian-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849209827409:android:6fd2112ec165eb78c81870",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIF3Os6RZLuVsZcggbKLzqf00iRR24Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849209827409:android:c6d094be8eea9b9cc81870",
+        "android_client_info": {
+          "package_name": "com.example.lyra_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIF3Os6RZLuVsZcggbKLzqf00iRR24Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
